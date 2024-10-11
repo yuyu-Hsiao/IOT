@@ -9,7 +9,7 @@
 
 ## 目錄結構
 
-1. [Servo](./IoT_project/servo_motor/README.md) - 使用伺服馬達的控制範例
+1. [Servo](./IoT_project/servo_motor) - 使用伺服馬達的控制範例
 2. [Step Motor](./IoT_project/step_motor/README.md) - 使用步進馬達的控制範例
 3. [Step Motor](./IoT_project/relay/README.md) - 使用步進馬達的控制範例
 4. [Car](./IoT_project/car/README.md) - 使用 ESP32 控制車輛的實驗
