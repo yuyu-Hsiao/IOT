@@ -14,4 +14,4 @@
 3. [Step Motor](./IoT_project/relay/README.md) - 使用步進馬達的控制範例
 4. [Car](./IoT_project/car/README.md) - 使用 ESP32 控制車輛的實驗
 
-每個資料夾中都有詳細的 `README.md` 文件，說明如何使用該範例或實驗。
+每個資料夾中都有詳細的 `README.md` 文件，說明實驗內容。
