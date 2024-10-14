@@ -12,6 +12,6 @@
 1. [Servo](./IoT_project/servo_motor) - 使用伺服馬達的控制範例
 2. [Step Motor](./IoT_project/step_motor) - 使用步進馬達的控制範例
 3. [Step Motor](./IoT_project/relay) - 使用步進馬達的控制範例
-4. [Car](./IoT_project/car) - 使用 ESP32 控制車輛的實驗
+4. [Car](./IoT_project/car_xbox) - 使用 ESP32 控制車輛的實驗
 
 每個資料夾中都有詳細的 `README.md` 文件，說明實驗內容。
